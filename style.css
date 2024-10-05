@@ -1,0 +1,51 @@
+body {
+    overflow-x: hidden;
+}
+
+.body-text {
+    text-align: justify;
+}
+
+.body-text p {
+    margin-left: 270px;
+}
+
+.body-project-title {
+    text-align: justify;
+}
+
+.body-project-title img {
+    width: 100%;
+}
+
+.navbar-brand a {
+    font-weight: 500;
+}
+
+.navbar-custom ul li a {
+    font-weight: 500;
+    color: black;
+}
+
+.project-title h1 {
+    font-weight: bold;
+}
+
+.social-icons a {
+    color: #8d9cb3;
+}
+
+.card {
+    border: 0;
+}
+
+.custom-hr {
+    border: 1; /* Menghilangkan border default */
+    border-top: 1px solid #888888; /* Membuat border atas */
+    width: 85%; /* Mengatur lebar garis */
+    margin: 20px auto; /* Meratakan ke tengah secara horizontal */
+}
+
+footer h6 {
+    color: black;
+}
